@@ -24,5 +24,7 @@ The background changes dynamically based on the current weather.
 - OpenWeatherMap API
 
 ---
+## Preview image
+![image](https://github.com/user-attachments/assets/1cffe469-3549-4cb8-8c40-9ac4c83d79a2)
 
 
